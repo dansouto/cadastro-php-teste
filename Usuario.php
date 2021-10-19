@@ -6,7 +6,7 @@
         private $codUsuario;
         private $login;
         private $senha;
-        private $pdo;
+       
        
         public function setCodUsuario($cod) {
             $this -> codUsuario = $cod;
